@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/mnist/mnist_reader.hpp
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+cstdint
+-
+memory
+-
+mnist_reader_common.hpp
+../include/mnist/mnist_reader_common.hpp
+
+../include/mnist/mnist_reader_common.hpp
+
+/mnt/c/Users/HP/Desktop/MNIST_v0/main.cpp
+iostream
+-
+vector
+-
+mnist/mnist_reader.hpp
+/mnt/c/Users/HP/Desktop/MNIST_v0/mnist/mnist_reader.hpp
+

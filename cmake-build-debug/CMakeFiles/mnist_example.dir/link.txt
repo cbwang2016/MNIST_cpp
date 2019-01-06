@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/mnist_example.dir/main.cpp.o  -o mnist_example -rdynamic 
